@@ -1,2 +1,2 @@
-# cs50
-my cs50 code in 2020
+# cs50 2020
+my cs50 code 
